@@ -15,7 +15,7 @@ Comfortable with **HTML**, **CSS**, and **Bootstrap** for frontend basics.
 
 - **Languages & Markup:** Python, JavaScript (basic), HTML5, CSS3  
 - **Frameworks & Libraries:** FastAPI, Bootstrap  
-- **Systems & Networking:** Linux (Ubuntu, Debian), Windows, VPN, SSH, RDP  
+- **Systems & Networking:** Linux (Ubuntu, Debian), Windows, VPN 
 - **Development Tools:** Git, Bash, Terminal workflows
 
 ---
