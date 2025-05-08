@@ -4,13 +4,19 @@
 ---
 
 **🧑‍💻 About Me**  
-I'm a self-motivated junior developer who believes that practice is more important than theory. Currently learning **Python**, **FastAPI**, and exploring **JavaScript**. I'm also into **Linux**, **HTML/CSS/Bootstrap**, and love working with terminals and automation tools.
+I'm a self-motivated junior developer who believes that you can't just learn coding from books — practice matters more.  
+Currently learning **Python** and **FastAPI**, also exploring **JavaScript**.  
+Big fan of **Linux**, terminal tools, and automation.  
+Comfortable with **HTML**, **CSS**, and **Bootstrap** for frontend basics.
 
 ---
 
-**🛠 Skills & Tools**  
-Python · JavaScript (basic) · HTML5 · CSS3 · Bootstrap · FastAPI  
-Linux (Ubuntu, Debian) · Git · Bash · Networking · VPN · SSH · RDP
+**🛠 Skills & Tools**
+
+- **Languages & Markup:** Python, JavaScript (basic), HTML5, CSS3  
+- **Frameworks & Libraries:** FastAPI, Bootstrap  
+- **Systems & Networking:** Linux (Ubuntu, Debian), Windows, VPN, SSH, RDP  
+- **Development Tools:** Git, Bash, Terminal workflows
 
 ---
 
