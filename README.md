@@ -37,7 +37,7 @@ Comfortable with **HTML**, **CSS**, and **Bootstrap** for frontend basics.
 
 **📫 Contact**  
 📧 Amiransar.Anw@gmail.com  
-🔗 [LinkedIn](https://linkedin.com/in/amirhosseinansari)
+🔗 [LinkedIn](https://www.linkedin.com/in/amiransar/)
 
 ---
 
